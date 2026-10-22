@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/b_about"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:backgroundTint="#333333"
+            android:text="настройки"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/b_history"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:backgroundTint="#333333"
+            android:text="История"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <HorizontalScrollView
+            android:id="@+id/scrollViewOperation"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+
+            <TextView
+                android:id="@+id/operation"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="@color/white"
+                android:gravity="end|center_vertical"
+                android:textSize="50sp"
+                android:text=""
+                android:singleLine="true" />
+
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:gravity="end"
+            android:textSize="30sp"
+            android:ellipsize="start"
+            android:text=""
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <!-- Сетка клавиатуры калькулятора -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <!-- Ряд 1 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="√"
+                android:id="@+id/b_sqrt" />
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="log2"
+                android:id="@+id/b_log2" />
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="ln"
+                android:id="@+id/b_ln" />
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="("
+                android:id="@+id/b_leftb" />
+            <TextView
+                style="@style/Operations_Sci"
+                android:text=")"
+                android:id="@+id/b_rightb" />
+        </LinearLayout>
+
+        <!-- Ряд 2 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="xʸ"
+                android:id="@+id/b_pow" />
+            <TextView
+                style="@style/Operations"
+                android:text="AC"
+                android:id="@+id/b_AC" />
+            <TextView
+                style="@style/Operations"
+                android:text="back"
+                android:id="@+id/b_back" />
+            <TextView
+                style="@style/Operations"
+                android:text="%"
+                android:id="@+id/b_percent" />
+            <TextView
+                style="@style/Operations"
+                android:text="/"
+                android:id="@+id/b_div" />
+        </LinearLayout>
+
+        <!-- Ряд 3 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="sin"
+                android:id="@+id/b_sin" />
+            <TextView
+                style="@style/Numbers"
+                android:text="7"
+                android:id="@+id/b_7" />
+            <TextView
+                style="@style/Numbers"
+                android:text="8"
+                android:id="@+id/b_8" />
+            <TextView
+                style="@style/Numbers"
+                android:text="9"
+                android:id="@+id/b_9" />
+            <TextView
+                style="@style/Operations"
+                android:text="*"
+                android:id="@+id/b_mul" />
+        </LinearLayout>
+
+        <!-- Ряд 4 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="cos"
+                android:id="@+id/b_cos" />
+            <TextView
+                style="@style/Numbers"
+                android:text="4"
+                android:id="@+id/b_4" />
+            <TextView
+                style="@style/Numbers"
+                android:text="5"
+                android:id="@+id/b_5" />
+            <TextView
+                style="@style/Numbers"
+                android:text="6"
+                android:id="@+id/b_6" />
+            <TextView
+                style="@style/Operations"
+                android:text="-"
+                android:id="@+id/b_sub" />
+        </LinearLayout>
+
+        <!-- Ряд 5 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="π"
+                android:id="@+id/b_pi" />
+            <TextView
+                style="@style/Numbers"
+                android:text="1"
+                android:id="@+id/b_1" />
+            <TextView
+                style="@style/Numbers"
+                android:text="2"
+                android:id="@+id/b_2" />
+            <TextView
+                style="@style/Numbers"
+                android:text="3"
+                android:id="@+id/b_3" />
+            <TextView
+                style="@style/Operations"
+                android:text="+"
+                android:id="@+id/b_add" />
+        </LinearLayout>
+
+        <!-- Ряд 6 -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <TextView
+                style="@style/Operations_Sci"
+                android:text="e"
+                android:id="@+id/b_e" />
+            <TextView
+                style="@style/Numbers"
+                android:text="000"
+                android:id="@+id/b_triple_zero" />
+            <TextView
+                style="@style/Numbers"
+                android:text="."
+                android:id="@+id/b_dot" />
+            <TextView
+                style="@style/Numbers"
+                android:text="0"
+                android:id="@+id/b_0" />
+            <TextView
+                style="@style/Operations_Sci"
+                android:background="@color/color_equal"
+                android:textColor="@color/white"
+                android:text="="
+                android:id="@+id/b_equal" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

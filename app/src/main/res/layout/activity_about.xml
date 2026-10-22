@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:padding="16dp"
+    android:fitsSystemWindows="true">
+
+    <TextView
+        android:id="@+id/tvSettingsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Настройки"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <!-- Переключатель темной темы -->
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSettingsTitle"
+        android:layout_marginTop="32dp"
+        android:text="Темная тема"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <!-- Кнопка возврата назад -->
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchSound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSettingsTitle"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="78dp"
+        android:layout_centerHorizontal="true"
+        android:text="Звук при нажатии кнопок"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnBackSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Назад" />
+
+</RelativeLayout>

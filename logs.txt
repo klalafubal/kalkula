@@ -1,0 +1,275 @@
+2026-10-22 04:48:03.654  8379-8379  MainActivity            com.example.kal                      D  onStart
+2026-10-22 04:48:03.660  8379-8379  MainActivity            com.example.kal                      D  onResume
+2026-10-22 04:48:04.484  8379-8379  MainActivity            com.example.kal                      D  onPause
+2026-10-22 04:48:04.495  8379-8379  MainActivity            com.example.kal                      D  onStop
+2026-10-22 04:48:04.499  8379-8379  MainActivity            com.example.kal                      D  onDestroy
+2026-10-22 04:48:04.714  8379-8379  MainActivity            com.example.kal                      D  onStart
+2026-10-22 04:48:04.724  8379-8379  MainActivity            com.example.kal                      D  onResume
+2026-10-22 04:57:12.555  8379-8379  MainActivity            com.example.kal                      D  onPause
+2026-10-22 04:57:13.177  8379-8379  MainActivity            com.example.kal                      D  onStop
+2026-10-22 04:57:14.775  8379-8379  MainActivity            com.example.kal                      D  onStart
+2026-10-22 04:57:14.777  8379-8379  MainActivity            com.example.kal                      D  onResume
+2026-10-22 04:57:16.231  8379-8379  MainActivity            com.example.kal                      D  onPause
+2026-10-22 04:57:16.966  8379-8379  MainActivity            com.example.kal                      D  onStop
+2026-10-22 04:57:19.487  8379-8379  MainActivity            com.example.kal                      D  onStart
+2026-10-22 04:57:19.488  8379-8379  MainActivity            com.example.kal                      D  onResume
+
+2026-10-22 02:56:54.825  5668-5668  HistoryActivity         pid-5668                             D  onCreate: экран истории создан
+2026-10-22 02:56:54.829  5668-5668  HistoryActivity         pid-5668                             D  onStart
+2026-10-22 02:56:54.836  5668-5668  HistoryActivity         pid-5668                             D  onResume
+2026-10-22 02:56:56.926  5668-5668  HistoryActivity         pid-5668                             I  Нажата кнопка возврата назад
+2026-10-22 02:56:56.931  5668-5668  HistoryActivity         pid-5668                             D  onPause
+2026-10-22 02:56:57.344  5668-5668  HistoryActivity         pid-5668                             D  onStop
+2026-10-22 02:56:57.347  5668-5668  HistoryActivity         pid-5668                             D  onDestroy
+2026-10-22 02:57:00.493  5668-5668  HistoryActivity         pid-5668                             D  onCreate: экран истории создан
+2026-10-22 02:57:00.498  5668-5668  HistoryActivity         pid-5668                             D  onStart
+2026-10-22 02:57:00.504  5668-5668  HistoryActivity         pid-5668                             D  onResume
+2026-10-22 02:57:02.255  5668-5668  HistoryActivity         pid-5668                             I  Нажата кнопка возврата назад
+2026-10-22 02:57:02.271  5668-5668  HistoryActivity         pid-5668                             D  onPause
+2026-10-22 02:57:02.686  5668-5668  HistoryActivity         pid-5668                             D  onStop
+2026-10-22 02:57:02.689  5668-5668  HistoryActivity         pid-5668                             D  onDestroy
+2026-10-22 02:57:16.729  5668-5668  HistoryActivity         pid-5668                             D  onCreate: экран истории создан
+2026-10-22 02:57:16.734  5668-5668  HistoryActivity         pid-5668                             D  onStart
+2026-10-22 02:57:16.745  5668-5668  HistoryActivity         pid-5668                             D  onResume
+2026-10-22 02:57:18.993  5668-5668  HistoryActivity         pid-5668                             I  Нажата кнопка возврата назад
+2026-10-22 02:57:19.010  5668-5668  HistoryActivity         pid-5668                             D  onPause
+2026-10-22 02:57:19.418  5668-5668  HistoryActivity         pid-5668                             D  onStop
+2026-10-22 02:57:19.420  5668-5668  HistoryActivity         pid-5668                             D  onDestroy
+2026-10-22 03:24:55.510  6619-6619  HistoryActivity         pid-6619                             D  onCreate: экран истории создан
+2026-10-22 03:24:55.518  6619-6619  HistoryActivity         pid-6619                             D  onStart
+2026-10-22 03:24:55.523  6619-6619  HistoryActivity         pid-6619                             D  onResume
+2026-10-22 03:24:57.858  6619-6619  HistoryActivity         pid-6619                             I  Нажата кнопка возврата назад
+2026-10-22 03:24:57.872  6619-6619  HistoryActivity         pid-6619                             D  onPause
+2026-10-22 03:24:58.338  6619-6619  HistoryActivity         pid-6619                             D  onStop
+2026-10-22 03:24:58.340  6619-6619  HistoryActivity         pid-6619                             D  onDestroy
+2026-10-22 03:25:09.430  6619-6619  HistoryActivity         pid-6619                             D  onCreate: экран истории создан
+2026-10-22 03:25:09.441  6619-6619  HistoryActivity         pid-6619                             D  onStart
+2026-10-22 03:25:09.456  6619-6619  HistoryActivity         pid-6619                             D  onResume
+2026-10-22 03:25:12.050  6619-6619  HistoryActivity         pid-6619                             I  Нажата кнопка возврата назад
+2026-10-22 03:25:12.055  6619-6619  HistoryActivity         pid-6619                             D  onPause
+2026-10-22 03:25:12.524  6619-6619  HistoryActivity         pid-6619                             D  onStop
+2026-10-22 03:25:12.526  6619-6619  HistoryActivity         pid-6619                             D  onDestroy
+2026-10-22 03:25:19.129  6619-6619  HistoryActivity         pid-6619                             D  onCreate: экран истории создан
+2026-10-22 03:25:19.143  6619-6619  HistoryActivity         pid-6619                             D  onStart
+2026-10-22 03:25:19.147  6619-6619  HistoryActivity         pid-6619                             D  onResume
+2026-10-22 03:25:20.898  6619-6619  HistoryActivity         pid-6619                             I  Нажата кнопка возврата назад
+2026-10-22 03:25:20.922  6619-6619  HistoryActivity         pid-6619                             D  onPause
+2026-10-22 03:25:21.422  6619-6619  HistoryActivity         pid-6619                             D  onStop
+2026-10-22 03:25:21.423  6619-6619  HistoryActivity         pid-6619                             D  onDestroy
+2026-10-22 03:25:42.611  6619-6619  HistoryActivity         pid-6619                             D  onCreate: экран истории создан
+2026-10-22 03:25:42.642  6619-6619  HistoryActivity         pid-6619                             D  onStart
+2026-10-22 03:25:42.657  6619-6619  HistoryActivity         pid-6619                             D  onResume
+2026-10-22 03:25:51.280  6619-6619  HistoryActivity         pid-6619                             I  Нажата кнопка возврата назад
+2026-10-22 03:25:51.293  6619-6619  HistoryActivity         pid-6619                             D  onPause
+2026-10-22 03:25:51.818  6619-6619  HistoryActivity         pid-6619                             D  onStop
+2026-10-22 03:25:51.822  6619-6619  HistoryActivity         pid-6619                             D  onDestroy
+2026-10-22 03:25:55.697  6619-6619  HistoryActivity         pid-6619                             D  onCreate: экран истории создан
+2026-10-22 03:25:55.713  6619-6619  HistoryActivity         pid-6619                             D  onStart
+2026-10-22 03:25:55.717  6619-6619  HistoryActivity         pid-6619                             D  onResume
+2026-10-22 03:25:58.030  6619-6619  HistoryActivity         pid-6619                             D  onPause
+2026-10-22 03:25:58.411  6619-6619  HistoryActivity         pid-6619                             D  onStop
+2026-10-22 03:25:58.413  6619-6619  HistoryActivity         pid-6619                             D  onDestroy
+2026-10-22 04:32:34.889  7462-7462  HistoryActivity         pid-7462                             D  onCreate: экран истории создан
+2026-10-22 04:32:34.894  7462-7462  HistoryActivity         pid-7462                             D  onStart
+2026-10-22 04:32:34.908  7462-7462  HistoryActivity         pid-7462                             D  onResume
+2026-10-22 04:32:38.206  7462-7462  HistoryActivity         pid-7462                             I  Нажата кнопка возврата назад
+2026-10-22 04:32:38.218  7462-7462  HistoryActivity         pid-7462                             D  onPause
+2026-10-22 04:32:38.610  7462-7462  HistoryActivity         pid-7462                             D  onStop
+2026-10-22 04:32:38.612  7462-7462  HistoryActivity         pid-7462                             D  onDestroy
+2026-10-22 04:32:41.451  7462-7462  HistoryActivity         pid-7462                             D  onCreate: экран истории создан
+2026-10-22 04:32:41.455  7462-7462  HistoryActivity         pid-7462                             D  onStart
+2026-10-22 04:32:41.458  7462-7462  HistoryActivity         pid-7462                             D  onResume
+2026-10-22 04:32:43.352  7462-7462  HistoryActivity         pid-7462                             I  Нажата кнопка возврата назад
+2026-10-22 04:32:43.370  7462-7462  HistoryActivity         pid-7462                             D  onPause
+2026-10-22 04:32:43.898  7462-7462  HistoryActivity         pid-7462                             D  onStop
+2026-10-22 04:32:43.901  7462-7462  HistoryActivity         pid-7462                             D  onDestroy
+2026-10-22 04:32:56.371  7462-7462  HistoryActivity         pid-7462                             D  onCreate: экран истории создан
+2026-10-22 04:32:56.376  7462-7462  HistoryActivity         pid-7462                             D  onStart
+2026-10-22 04:32:56.384  7462-7462  HistoryActivity         pid-7462                             D  onResume
+2026-10-22 04:32:58.917  7462-7462  HistoryActivity         pid-7462                             I  Нажата кнопка возврата назад
+2026-10-22 04:32:58.919  7462-7462  HistoryActivity         pid-7462                             D  onPause
+2026-10-22 04:32:59.280  7462-7462  HistoryActivity         pid-7462                             D  onStop
+2026-10-22 04:32:59.286  7462-7462  HistoryActivity         pid-7462                             D  onDestroy
+2026-10-22 04:41:48.145  7805-7805  HistoryActivity         pid-7805                             D  onCreate: экран истории создан
+2026-10-22 04:41:48.149  7805-7805  HistoryActivity         pid-7805                             D  onStart
+2026-10-22 04:41:48.153  7805-7805  HistoryActivity         pid-7805                             D  onResume
+2026-10-22 04:41:50.153  7805-7805  HistoryActivity         pid-7805                             I  Нажата кнопка возврата назад
+2026-10-22 04:41:50.163  7805-7805  HistoryActivity         pid-7805                             D  onPause
+2026-10-22 04:41:50.604  7805-7805  HistoryActivity         pid-7805                             D  onStop
+2026-10-22 04:41:50.608  7805-7805  HistoryActivity         pid-7805                             D  onDestroy
+2026-10-22 04:47:43.658  8142-8142  HistoryActivity         com.example.kal                      D  onCreate: экран истории создан
+2026-10-22 04:47:43.663  8142-8142  HistoryActivity         com.example.kal                      D  onStart
+2026-10-22 04:47:43.668  8142-8142  HistoryActivity         com.example.kal                      D  onResume
+2026-10-22 04:47:45.628  8142-8142  HistoryActivity         com.example.kal                      I  Нажата кнопка возврата назад
+2026-10-22 04:47:45.654  8142-8142  HistoryActivity         com.example.kal                      D  onPause
+2026-10-22 04:47:46.189  8142-8142  HistoryActivity         com.example.kal                      D  onStop
+2026-10-22 04:47:46.193  8142-8142  HistoryActivity         com.example.kal                      D  onDestroy
+2026-10-22 04:57:12.642  8379-8379  HistoryActivity         com.example.kal                      D  onCreate: экран истории создан
+2026-10-22 04:57:12.648  8379-8379  HistoryActivity         com.example.kal                      D  onStart
+2026-10-22 04:57:12.652  8379-8379  HistoryActivity         com.example.kal                      D  onResume
+2026-10-22 04:57:14.543  8379-8379  HistoryActivity         com.example.kal                      I  Нажата кнопка возврата назад
+2026-10-22 04:57:14.549  8379-8379  HistoryActivity         com.example.kal                      D  onPause
+2026-10-22 04:57:15.172  8379-8379  HistoryActivity         com.example.kal                      D  onStop
+2026-10-22 04:57:15.174  8379-8379  HistoryActivity         com.example.kal                      D  onDestroy
+
+2026-10-22 03:26:35.719  6877-6877  SettingsActivity        pid-6877                             D  onCreate: экран настроек создан
+2026-10-22 03:26:35.725  6877-6877  SettingsActivity        pid-6877                             D  onStart
+2026-10-22 03:26:35.728  6877-6877  SettingsActivity        pid-6877                             D  onResume
+2026-10-22 03:26:37.723  6877-6877  SettingsActivity        pid-6877                             I  Пользователь нажал кнопку смены темы
+2026-10-22 04:16:36.030  6877-6877  SettingsActivity        pid-6877                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:16:36.077  6877-6877  SettingsActivity        pid-6877                             D  onPause
+2026-10-22 04:16:36.702  6877-6877  SettingsActivity        pid-6877                             D  onStop
+2026-10-22 04:16:36.704  6877-6877  SettingsActivity        pid-6877                             D  onDestroy
+2026-10-22 04:16:56.004  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:16:56.010  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:16:56.017  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:45.828  7174-7174  SettingsActivity        pid-7174                             I  Пользователь переключил тему: темная = false
+2026-10-22 04:23:46.148  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:46.164  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:46.165  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:23:46.212  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:23:46.214  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:23:46.215  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:47.782  7174-7174  SettingsActivity        pid-7174                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:23:47.790  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:48.215  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:48.216  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:23:50.014  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:23:50.021  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:23:50.025  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:51.486  7174-7174  SettingsActivity        pid-7174                             I  Пользователь переключил тему: темная = true
+2026-10-22 04:23:51.504  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:51.518  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:51.520  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:23:51.564  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:23:51.565  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:23:51.568  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:52.930  7174-7174  SettingsActivity        pid-7174                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:23:52.938  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:53.482  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:53.488  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:23:55.752  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:23:55.762  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:23:55.766  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:57.206  7174-7174  SettingsActivity        pid-7174                             I  Пользователь переключил тему: темная = false
+2026-10-22 04:23:57.406  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:57.427  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:57.429  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:23:57.463  7174-7174  SettingsActivity        pid-7174                             D  onCreate: экран настроек создан
+2026-10-22 04:23:57.465  7174-7174  SettingsActivity        pid-7174                             D  onStart
+2026-10-22 04:23:57.467  7174-7174  SettingsActivity        pid-7174                             D  onResume
+2026-10-22 04:23:58.933  7174-7174  SettingsActivity        pid-7174                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:23:58.948  7174-7174  SettingsActivity        pid-7174                             D  onPause
+2026-10-22 04:23:59.375  7174-7174  SettingsActivity        pid-7174                             D  onStop
+2026-10-22 04:23:59.379  7174-7174  SettingsActivity        pid-7174                             D  onDestroy
+2026-10-22 04:32:23.220  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:23.225  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:23.233  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:25.012  7462-7462  SettingsActivity        pid-7462                             I  Пользователь переключил тему: темная = true
+2026-10-22 04:32:25.351  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:25.368  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:25.371  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:25.412  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:25.414  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:25.415  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:26.914  7462-7462  SettingsActivity        pid-7462                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:32:26.930  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:27.406  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:27.408  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:31.124  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:31.129  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:31.134  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:33.129  7462-7462  SettingsActivity        pid-7462                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:32:33.137  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:33.517  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:33.520  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:45.308  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:45.315  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:45.318  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:46.755  7462-7462  SettingsActivity        pid-7462                             I  Пользователь переключил тему: темная = false
+2026-10-22 04:32:47.048  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:47.051  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:47.052  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:47.094  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:47.096  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:47.097  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:47.968  7462-7462  SettingsActivity        pid-7462                             I  Пользователь переключил тему: темная = true
+2026-10-22 04:32:48.257  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:48.271  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:48.274  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:48.311  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:48.314  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:48.318  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:52.213  7462-7462  SettingsActivity        pid-7462                             I  Пользователь переключил тему: темная = false
+2026-10-22 04:32:52.447  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:52.464  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:52.465  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:32:52.503  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:32:52.504  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:32:52.506  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:32:53.875  7462-7462  SettingsActivity        pid-7462                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:32:53.895  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:32:54.523  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:32:54.525  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:33:00.335  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:33:00.338  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:33:00.345  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:33:02.172  7462-7462  SettingsActivity        pid-7462                             I  Пользователь переключил тему: темная = true
+2026-10-22 04:33:02.372  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:33:02.401  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:33:02.403  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:33:02.443  7462-7462  SettingsActivity        pid-7462                             D  onCreate: экран настроек создан
+2026-10-22 04:33:02.445  7462-7462  SettingsActivity        pid-7462                             D  onStart
+2026-10-22 04:33:02.447  7462-7462  SettingsActivity        pid-7462                             D  onResume
+2026-10-22 04:33:04.322  7462-7462  SettingsActivity        pid-7462                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:33:04.332  7462-7462  SettingsActivity        pid-7462                             D  onPause
+2026-10-22 04:33:04.819  7462-7462  SettingsActivity        pid-7462                             D  onStop
+2026-10-22 04:33:04.823  7462-7462  SettingsActivity        pid-7462                             D  onDestroy
+2026-10-22 04:41:51.508  7805-7805  SettingsActivity        pid-7805                             D  onCreate: экран настроек создан
+2026-10-22 04:41:51.520  7805-7805  SettingsActivity        pid-7805                             D  onStart
+2026-10-22 04:41:51.529  7805-7805  SettingsActivity        pid-7805                             D  onResume
+2026-10-22 04:41:53.570  7805-7805  SettingsActivity        pid-7805                             I  Пользователь переключил звук: enabled = false
+2026-10-22 04:41:54.856  7805-7805  SettingsActivity        pid-7805                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:41:54.874  7805-7805  SettingsActivity        pid-7805                             D  onPause
+2026-10-22 04:41:55.307  7805-7805  SettingsActivity        pid-7805                             D  onStop
+2026-10-22 04:41:55.310  7805-7805  SettingsActivity        pid-7805                             D  onDestroy
+2026-10-22 04:43:29.843  7938-7938  SettingsActivity        pid-7938                             D  onCreate: экран настроек создан
+2026-10-22 04:43:29.848  7938-7938  SettingsActivity        pid-7938                             D  onStart
+2026-10-22 04:43:29.858  7938-7938  SettingsActivity        pid-7938                             D  onResume
+2026-10-22 04:43:31.797  7938-7938  SettingsActivity        pid-7938                             I  Пользователь переключил звук: enabled = true
+2026-10-22 04:43:32.898  7938-7938  SettingsActivity        pid-7938                             I  Пользователь переключил звук: enabled = false
+2026-10-22 04:43:34.361  7938-7938  SettingsActivity        pid-7938                             I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:43:34.364  7938-7938  SettingsActivity        pid-7938                             D  onPause
+2026-10-22 04:43:34.765  7938-7938  SettingsActivity        pid-7938                             D  onStop
+2026-10-22 04:43:34.766  7938-7938  SettingsActivity        pid-7938                             D  onDestroy
+2026-10-22 04:47:15.498  8142-8142  SettingsActivity        com.example.kal                      D  onCreate: экран настроек создан
+2026-10-22 04:47:15.503  8142-8142  SettingsActivity        com.example.kal                      D  onStart
+2026-10-22 04:47:15.510  8142-8142  SettingsActivity        com.example.kal                      D  onResume
+2026-10-22 04:47:17.216  8142-8142  SettingsActivity        com.example.kal                      I  Пользователь переключил звук: enabled = true
+2026-10-22 04:47:18.386  8142-8142  SettingsActivity        com.example.kal                      I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:47:18.409  8142-8142  SettingsActivity        com.example.kal                      D  onPause
+2026-10-22 04:47:18.918  8142-8142  SettingsActivity        com.example.kal                      D  onStop
+2026-10-22 04:47:18.920  8142-8142  SettingsActivity        com.example.kal                      D  onDestroy
+2026-10-22 04:47:26.781  8142-8142  SettingsActivity        com.example.kal                      D  onCreate: экран настроек создан
+2026-10-22 04:47:26.788  8142-8142  SettingsActivity        com.example.kal                      D  onStart
+2026-10-22 04:47:26.797  8142-8142  SettingsActivity        com.example.kal                      D  onResume
+2026-10-22 04:47:28.525  8142-8142  SettingsActivity        com.example.kal                      I  Пользователь переключил звук: enabled = false
+2026-10-22 04:47:29.665  8142-8142  SettingsActivity        com.example.kal                      I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:47:29.676  8142-8142  SettingsActivity        com.example.kal                      D  onPause
+2026-10-22 04:47:30.057  8142-8142  SettingsActivity        com.example.kal                      D  onStop
+2026-10-22 04:47:30.060  8142-8142  SettingsActivity        com.example.kal                      D  onDestroy
+2026-10-22 04:47:40.321  8142-8142  SettingsActivity        com.example.kal                      D  onCreate: экран настроек создан
+2026-10-22 04:47:40.328  8142-8142  SettingsActivity        com.example.kal                      D  onStart
+2026-10-22 04:47:40.331  8142-8142  SettingsActivity        com.example.kal                      D  onResume
+2026-10-22 04:47:42.229  8142-8142  SettingsActivity        com.example.kal                      I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:47:42.239  8142-8142  SettingsActivity        com.example.kal                      D  onPause
+2026-10-22 04:47:42.639  8142-8142  SettingsActivity        com.example.kal                      D  onStop
+2026-10-22 04:47:42.641  8142-8142  SettingsActivity        com.example.kal                      D  onDestroy
+2026-10-22 04:57:16.311  8379-8379  SettingsActivity        com.example.kal                      D  onCreate: экран настроек создан
+2026-10-22 04:57:16.318  8379-8379  SettingsActivity        com.example.kal                      D  onStart
+2026-10-22 04:57:16.326  8379-8379  SettingsActivity        com.example.kal                      D  onResume
+2026-10-22 04:57:18.093  8379-8379  SettingsActivity        com.example.kal                      I  Пользователь переключил звук: enabled = true
+2026-10-22 04:57:19.451  8379-8379  SettingsActivity        com.example.kal                      I  Нажата кнопка возврата назад из настроек
+2026-10-22 04:57:19.464  8379-8379  SettingsActivity        com.example.kal                      D  onPause
+2026-10-22 04:57:19.899  8379-8379  SettingsActivity        com.example.kal                      D  onStop
+2026-10-22 04:57:19.901  8379-8379  SettingsActivity        com.example.kal                      D  onDestroy
